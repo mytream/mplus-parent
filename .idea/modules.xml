@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mplus-enterprise-api/mplus-enterprise-api.iml" filepath="$PROJECT_DIR$/mplus-enterprise-api/mplus-enterprise-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mplus-enterprise-impl/mplus-enterprise-impl.iml" filepath="$PROJECT_DIR$/mplus-enterprise-impl/mplus-enterprise-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mplus-enterprise-war/mplus-enterprise-war.iml" filepath="$PROJECT_DIR$/mplus-enterprise-war/mplus-enterprise-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mplus-framework/mplus-framework.iml" filepath="$PROJECT_DIR$/mplus-framework/mplus-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mplus-parent.iml" filepath="$PROJECT_DIR$/mplus-parent.iml" />
+    </modules>
+  </component>
+</project>
+

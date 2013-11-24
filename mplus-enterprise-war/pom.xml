@@ -1,0 +1,27 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <parent>
+        <groupId>cn.damai.mplus</groupId>
+        <artifactId>mplus-parent</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>cn.damai.maiplus.enterprise</groupId>
+    <artifactId>mplus-enterprise-war</artifactId>
+    <packaging>war</packaging>
+
+    <name>mplus-enterprise-war</name>
+    <url>http://maven.apache.org</url>
+
+    <dependencies>
+        <dependency>
+            <groupId>cn.damai.mplus.enterprise</groupId>
+            <artifactId>mplus-enterprise-impl</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <finalName>mplus-enterprise-war</finalName>
+    </build>
+</project>
